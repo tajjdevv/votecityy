@@ -53,7 +53,7 @@ const AutoSwipeCarousel = ({ images }) => {
 
             const styles = {
                 carouselContainer: {
-                width: "90%",
+                width: "100%",
             // Adjust to your preferred size
             overflow: "hidden",
             display:"flex",
